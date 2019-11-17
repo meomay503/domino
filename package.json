@@ -1,14 +1,17 @@
 {
-  "name": "domino",
+  "name": "domino-ext",
   "version": "2.1.3+git",
   "license": "BSD-2-Clause",
   "author": "Felix Gnass <fgnass@gmail.com>",
+  "contributors": [
+    "Stefan Niederhauser <ich@nidi.guru>"
+  ],
   "description": "Server-side DOM implementation based on Mozilla's dom.js",
-  "homepage": "https://github.com/fgnass/domino",
+  "homepage": "https://github.com/nidi3/domino",
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fgnass/domino.git"
+    "url": "https://github.com/nidi3/domino.git"
   },
   "scripts": {
     "lint": "jshint lib test/*.js",
