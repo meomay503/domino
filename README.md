@@ -1,10 +1,10 @@
+# This is a fork
+- Make is minifier friendly
+- Support SVG CSS attributes
+
 # Server-side DOM implementation based on Mozilla's dom.js
 
 [![Build Status][1]][2] [![dependency status][3]][4] [![dev dependency status][5]][6]
-
-** This is a fork fixing: **
-- Make is minifier friendly
-- Support SVG CSS attributes
 
 As the name might suggest, domino's goal is to provide a <b>DOM in No</b>de.
 
