@@ -2,6 +2,10 @@
 
 [![Build Status][1]][2] [![dependency status][3]][4] [![dev dependency status][5]][6]
 
+** This is a fork fixing: **
+- Make is minifier friendly
+- Support SVG CSS attributes
+
 As the name might suggest, domino's goal is to provide a <b>DOM in No</b>de.
 
 In contrast to the original [dom.js](https://github.com/andreasgal/dom.js) project, domino was not designed to run untrusted code. Hence it doesn't have to hide its internals behind a proxy facade which makes the code not only simpler, but also [more performant](https://github.com/fgnass/dombench).
