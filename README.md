@@ -1,5 +1,5 @@
 # This is a fork
-- Make is minifier friendly
+- Code is minifier friendly
 - Support SVG CSS attributes
 
 # Server-side DOM implementation based on Mozilla's dom.js
